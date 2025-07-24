@@ -12,5 +12,5 @@ eureka:
       defaultZone: http://localhost:8761/eureka/,http://localhost:8762/eureka/
       
 #自定义配置
-name: order-service-bus-3.0
+name: order-service-bus-4.0
 password: root
